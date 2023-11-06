@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TechnicalWeb/static/css/main.23c7a864.css",
+    "main.js": "/TechnicalWeb/static/js/main.58d8cecd.js",
+    "index.html": "/TechnicalWeb/index.html",
+    "main.23c7a864.css.map": "/TechnicalWeb/static/css/main.23c7a864.css.map",
+    "main.58d8cecd.js.map": "/TechnicalWeb/static/js/main.58d8cecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23c7a864.css",
+    "static/js/main.58d8cecd.js"
+  ]
+}
